@@ -1,6 +1,6 @@
 ### Olá, aqui é a Mayara Pilecarte 👋
 
-- 🌱 Learning: Html | Css | JS | C#
+- 🌱 Learning: Html | Css | C# | Flutter | Java
 - 😄 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/">
