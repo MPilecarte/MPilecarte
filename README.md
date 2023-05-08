@@ -4,8 +4,8 @@
 - 😄 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=MPilecarte&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPilecarte&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=MPilecarte&show_icons=true&theme=calmk&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPilecarte&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
 <div style="display: inline_block"><br>
