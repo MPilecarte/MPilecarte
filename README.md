@@ -19,6 +19,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plai
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Agular" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="center" alt="Dart" height="30" width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="center" alt="Flutter" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
+          
 
 </div>
 
